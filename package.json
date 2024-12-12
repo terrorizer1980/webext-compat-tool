@@ -22,10 +22,10 @@
   },
   "homepage": "https://github.com/potch/webext-compat-tool#readme",
   "dependencies": {
-    "addons-linter": "^3.0.0",
+    "addons-linter": "^6.25.0",
     "browser-sync": "^2.26.7",
     "chalk": "^4.0.0",
-    "express": "^4.17.1",
+    "express": "^4.21.2",
     "express-fileupload": "^1.1.9",
     "fs-extra": "^9.0.0",
     "gulp": "^4.0.2",
